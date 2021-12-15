@@ -29,7 +29,7 @@ cart.push()
 // if the expression provided in parenthesis resolves as 'true'
 if (cart.wheels > 4) {
   console.log('You have too many wheels');
-} else if (cart.wheels == 4) {
+} else if (cart.wh          eels == 4) {
   console.log('You have the correct number of wheels');
 } else {
   console.log('You do not have enough wheels');
